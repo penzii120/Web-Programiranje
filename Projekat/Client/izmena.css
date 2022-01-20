@@ -1,0 +1,31 @@
+input{
+    display: inline-block;
+    margin-left: 55px;
+    color: rgba(0, 0, 0, 0.5);
+    width: 100px;
+}
+label{
+    display:flex;
+}
+#divButton{
+    justify-content:center;
+    margin-left: 40px;
+}
+button{
+    margin: 10px;
+}
+#glavniDIV{
+    display:flex;
+}
+#divButton{
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+    padding:5px;
+}
+#NazivPredstave{
+    width: 200px;
+}
